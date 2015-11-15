@@ -6,4 +6,4 @@ and doing a similar page using Reagent.
 ## Directories
 
     react/  - contains Babel transpiled JS code from the react tutorial
-    reagent/ - Clojurescript code
+    cljs-react/ - Clojurescript code
