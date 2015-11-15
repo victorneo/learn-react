@@ -8,7 +8,10 @@ with Reagent.
 
 ## Setup
 
-You will need [leiningen](http://leiningen.org/) installed:
+The API server from React's tutorial is required in order to run the Reagent
+app (not included due to potential licensing issues).
+
+Apart from that, you will need [leiningen](http://leiningen.org/) installed:
 
     # OS X w/ homebrew
     brew install leiningen
